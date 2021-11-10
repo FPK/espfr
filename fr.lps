@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="fr.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="77"/>
+        <CursorPos X="15" Y="129"/>
+        <UsageCount Value="52"/>
+        <Bookmarks Count="1">
+          <Item0 Y="211" ID="8"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fr.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fixes/packages/rtl-extra/src/unix/serial.pp"/>
+        <UnitName Value="Serial"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="133"/>
+        <CursorPos X="24" Y="144"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fixes/rtl/linux/termios.inc"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="1933"/>
+        <CursorPos Y="1990"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="394"/>
+        <CursorPos X="21" Y="426"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/unix/unix.pp"/>
+        <UnitName Value="Unix"/>
+        <EditorIndex Value="11"/>
+        <CursorPos X="11" Y="95"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/solaris/unxfunc.inc"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="62"/>
+        <CursorPos X="46" Y="97"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/linux/unxsysc.inc"/>
+        <EditorIndex Value="10"/>
+        <CursorPos X="11" Y="16"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/linux/ossysc.inc"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="69"/>
+        <CursorPos X="29" Y="104"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/linux/system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="61" Y="26"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/unix/syscall.pp"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="5" Y="6"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rtl/linux/x86_64/sysnr.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="337"/>
+        <CursorPos X="39" Y="379"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fixes/rtl/objpas/sysutils/sysutils.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="111"/>
+        <CursorPos X="3" Y="114"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fixes/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="345"/>
+        <CursorPos X="2" Y="353"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tests/utils/dotest.pp"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="compiler/pp.pas"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="117" Column="19" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="96" Column="13" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="119" Column="11" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="128" Column="41" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="122" Column="8" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="123" Column="14" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="124" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="rtl/linux/unxsysc.inc"/>
+        <Caret Line="16" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="rtl/linux/ossysc.inc"/>
+        <Caret Line="104" Column="18" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="5" Column="63"/>
+      </Position>
+      <Position>
+        <Filename Value="rtl/linux/ossysc.inc"/>
+        <Caret Line="104" Column="29" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="123" Column="18" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="122" Column="87" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="73" Column="39" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="124" Column="77" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="94" Column="35" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="160" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="183" Column="30" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="181" Column="2" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="102" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="158" Column="15" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="162" Column="137" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="107" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="149" Column="14" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="203" Column="21" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="204" Column="22" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="9" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="101" Column="89" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="103" Column="7" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="fr.lpr"/>
+        <Caret Line="75" Column="11" TopLine="65"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="fr.lpr"/>
+        <Line Value="35"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
